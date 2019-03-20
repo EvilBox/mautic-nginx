@@ -1,0 +1,2 @@
+For Centos 7
+php php-cli php-common php-fpm php-gd php-imap php-intl php-json php-mbstring php-mysqlnd php-opcache php-pdo php-pecl-apcu php-pecl-apcu-bc php-pecl-igbinary php-pecl-redis4 php-pecl-zip php-process php-xml
